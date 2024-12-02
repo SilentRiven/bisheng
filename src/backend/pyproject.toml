@@ -6,7 +6,7 @@ authors = ["Dataelement <hanfeng@dataelem.com>"]
 maintainers = [
     "hanfeng <hanfeng@dataelem.com>",
 ]
-repository = "https://github.com/dataelement/bisheng"
+repository = "http://112.81.51.94:49161/intelligent/bisheng.git"
 license = "Apache 2.0"
 readme = "README.md"
 keywords = ["nlp", "langchain", "openai", "gpt", "gui"]
